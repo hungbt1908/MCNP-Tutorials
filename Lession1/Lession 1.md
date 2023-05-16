@@ -234,9 +234,15 @@ c    dbcn 6j 100 9999 5 $ dbcn card for multitask version.
 ptrac file=bin max=1000 meph=10 nps=1,100 cell=1 surface=1 
 
 ```
+---
+## 🚀 About Me
+My name is: Bùi Tiến Hưng
+I'm a researcher at [Vietnam Atomic Energy Institute](https://vinatom.gov.vn/).
+Master of Science in Nuclear Engineering
+- Email: hungbt1908@gmail.com          
+- Phone: +84 352348985
+- ResearchGate https://www.researchgate.net/profile/Bui-Tien-Hung-3
 
-#Tác giả
-- Tác giả: [Bùi Tiến Hưng](https://github.com/HungBuiTien)
-- Email: hungbuitien19081997@gmail.com, bthung.vinatom@gmail.com
-- Nghiên cứu viên, Viện Năng lượng nguyên tử Việt Nam.
-- Ngày soạn 11/5/2023; Ngày chỉnh sửa.
+## Acknowledgements
+Date created: 5/11/2023
+Date edited:

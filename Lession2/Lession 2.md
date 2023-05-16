@@ -256,8 +256,15 @@ mode p
 m1 1001 0.6667 8016 0.3333 $ Water
 ```
 
-#Tác giả
-- Tác giả: [Bùi Tiến Hưng](https://github.com/HungBuiTien)
-- Email: hungbuitien19081997@gmail.com, bthung.vinatom@gmail.com
-- Nghiên cứu viên, Viện Năng lượng nguyên tử Việt Nam.
-- Ngày soạn 15/5/2023; Ngày chỉnh sửa.
+---
+## 🚀 About Me
+My name is: Bùi Tiến Hưng
+I'm a researcher at [Vietnam Atomic Energy Institute](https://vinatom.gov.vn/).
+Master of Science in Nuclear Engineering
+- Email: hungbt1908@gmail.com          
+- Phone: +84 352348985
+- ResearchGate https://www.researchgate.net/profile/Bui-Tien-Hung-3
+
+## Acknowledgements
+Date created: 5/15/2023
+Date edited:
